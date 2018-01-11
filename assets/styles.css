@@ -1,0 +1,35 @@
+.col-sm-6, .exercises, .title {
+	text-align: center;
+}
+.jumbotron{
+	background-color: blue;
+}
+
+#fitness, .container1 {
+	/*background-color: yellow;*/
+	text-align: center;
+	height: 750px;
+	padding: 5px;
+}
+
+.bike, .swim{
+	text-align: left;
+}
+
+#nutrition, .container2{
+	text-align: center;
+	height: 340px;
+	padding: 5px;
+}
+
+#motivation, .container3{
+	text-align: center;
+	height: 340px;
+	padding: 5px;
+}
+ul{
+	text-align: left;
+}
+h3{
+	font-weight: bold;
+}

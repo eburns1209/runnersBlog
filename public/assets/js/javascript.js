@@ -1,0 +1,1 @@
+document.getElementById("to-write").value = 'text to be displayed';

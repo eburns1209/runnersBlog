@@ -1,0 +1,64 @@
+/*body{
+	background-color: #e6e6e6;
+}*/
+
+.col-sm-6, .exercises, .title {
+	text-align: center;
+}
+#title{
+	background-color: blue;
+	padding:5px;
+	height: 170px;
+}
+#fitness, #motivation{
+	background-color:#47d147;
+	height: 760px;
+	padding:5px;
+}
+#fitness, .container1 {
+	
+	text-align: center;
+	height: 790px;
+	padding: 5px;
+}
+.container1, .container2, .container3, .row2, .row3, .rowA{
+	font-weight: bold;
+}
+.bike, .swim{
+	text-align: left;
+}
+
+#nutrition, .container2, #stories{
+	text-align: center;
+	height: 340px;
+	padding: 5px;
+}
+
+#nutrition{
+	background-color:blue;
+	height: 760px;
+	padding:5px;
+}
+
+#motivation, .container3{
+	text-align: center;
+	height: 340px;
+	padding: 5px;
+}
+ul{
+	text-align: left;
+}
+/*h3{
+	font-weight: bold;
+}*/
+h4, h1, h3{
+	font-weight:bold;
+}
+
+
+.page-scroll{
+	text-align: center;
+	
+	padding: 25px;
+}
+
